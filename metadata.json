@@ -1,0 +1,7 @@
+{
+  "name": "LifeLink - Realtime Blood Network",
+  "description": "A community-based real-time blood donation platform connecting donors, hospitals, and patients with emergency alerts and AI-driven demand forecasting.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
